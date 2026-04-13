@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projects\\CsharpProjects\\coinflip\\coinflip.csproj": {}
+    "F:\\projects\\CsharpProjects\\First-Project\\coinflip.csproj": {}
   },
   "projects": {
-    "F:\\projects\\CsharpProjects\\coinflip\\coinflip.csproj": {
+    "F:\\projects\\CsharpProjects\\First-Project\\coinflip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\projects\\CsharpProjects\\coinflip\\coinflip.csproj",
+        "projectUniqueName": "F:\\projects\\CsharpProjects\\First-Project\\coinflip.csproj",
         "projectName": "coinflip",
-        "projectPath": "F:\\projects\\CsharpProjects\\coinflip\\coinflip.csproj",
+        "projectPath": "F:\\projects\\CsharpProjects\\First-Project\\coinflip.csproj",
         "packagesPath": "C:\\Users\\vamsh\\.nuget\\packages\\",
-        "outputPath": "F:\\projects\\CsharpProjects\\coinflip\\obj\\",
+        "outputPath": "F:\\projects\\CsharpProjects\\First-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vamsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
