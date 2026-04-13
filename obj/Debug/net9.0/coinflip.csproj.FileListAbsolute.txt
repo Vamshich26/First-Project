@@ -1,0 +1,14 @@
+F:\projects\CsharpProjects\coinflip\bin\Debug\net9.0\coinflip.exe
+F:\projects\CsharpProjects\coinflip\bin\Debug\net9.0\coinflip.deps.json
+F:\projects\CsharpProjects\coinflip\bin\Debug\net9.0\coinflip.runtimeconfig.json
+F:\projects\CsharpProjects\coinflip\bin\Debug\net9.0\coinflip.dll
+F:\projects\CsharpProjects\coinflip\bin\Debug\net9.0\coinflip.pdb
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\coinflip.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\coinflip.AssemblyInfoInputs.cache
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\coinflip.AssemblyInfo.cs
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\coinflip.csproj.CoreCompileInputs.cache
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\coinflip.dll
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\refint\coinflip.dll
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\coinflip.pdb
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\coinflip.genruntimeconfig.cache
+F:\projects\CsharpProjects\coinflip\obj\Debug\net9.0\ref\coinflip.dll
