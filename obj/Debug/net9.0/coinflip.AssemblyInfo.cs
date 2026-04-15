@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coinflip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc539d46190f69975aee89bfc9a2d0740027c7ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b999980012fdabf632d0c3e3c023ed7e3a33190c")]
 [assembly: System.Reflection.AssemblyProductAttribute("coinflip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coinflip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
