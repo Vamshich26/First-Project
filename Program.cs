@@ -1,4 +1,4 @@
-﻿string[] myStrings = new string[2] { "I like Lou malnattis deepdish Pizza. I like roast chicken. I like salad", "I like all 3(33) of the menu choices" };
+﻿string[] myStrings = new string[2] { "I like Lou Pizza. I like roast chicken. I like salad", "I like all 3(33) of the menu choices" };
 int stringsCount = myStrings.Length;
 string myString = "";
 int periodLocation = 0;
